@@ -1,0 +1,13 @@
+path: C:/Users/Hossam Aboouf/Downloads/EFG_Task
+train: data/train/images
+val: data/valid/images
+
+nc: 1
+names: ['logo']
+
+roboflow:
+  workspace: faculty-of-science-helwan-university
+  project: id-logo
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/faculty-of-science-helwan-university/id-logo/dataset/1
